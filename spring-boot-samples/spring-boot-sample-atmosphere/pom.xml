@@ -73,6 +73,9 @@
 							<goal>report</goal>
 							<goal>report</goal>
 							<goal>report</goal>
+							<goal>report</goal>
+							<goal>report</goal>
+
 						</goals>
 					</execution>
 				</executions>
